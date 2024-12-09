@@ -5,7 +5,7 @@
 
 [R. Hesse](https://robinhesse.github.io/), [S. Schaub-Meyer](https://schaubsi.github.io/), and [S. Roth](https://www.visinf.tu-darmstadt.de/visual_inference/people_vi/stefan_roth.en.jsp). **Benchmarking the Attribution Quality of Vision Models**. _NeurIPS Datasets and Benchmarks Track_, 2024.
 
-[Paper](https://openreview.net/pdf?id=XmyxQaTyck) | [ArXiv](https://arxiv.org/abs/2407.11910) | [Video (TBD)](TBD) | [Poster](https://github.com/visinf/idsds/blob/main/poster.jpeg)
+[Paper](https://openreview.net/pdf?id=XmyxQaTyck) | [ArXiv](https://arxiv.org/abs/2407.11910) | [Video (TBD)](TBD) | [Poster](https://github.com/visinf/idsds/blob/main/neurips_poster_2024.pdf)
 
 ## Evaluation
 
